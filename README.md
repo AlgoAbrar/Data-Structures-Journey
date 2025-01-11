@@ -35,25 +35,33 @@ Welcome to my **Data Structures Journey** repository! This is where I document m
 Data-Structures-Journey/
 │
 ├── SinglyLinkedList/
-│   ├── SinglyLinkedList.cpp
-│   └── README.md
+│   ├── SinglyLinkedList
+│   └── Problem Solving
 │
 ├── DoublyLinkedList/
-│   ├── DoublyLinkedList.cpp
-│   └── README.md
+│   ├── DoublyLinkedList
+│   └── Problem Solving
 │
 ├── BinaryTree/
-│   ├── BinaryTree.cpp
-│   ├── BinaryTreeOperations.cpp
-│   └── README.md
+│   ├── BinaryTree
+│   ├── BinaryTreeOperations
+│   ├── Binary Search Tree Implementation
+│   └── Problem Solving
 │
 ├── PrefixSum/
-│   ├── PrefixSum.cpp
-│   └── README.md
+│   ├── PrefixSum
+│   └── Problem Solving
 │
 ├── OtherTopics/
-│   ├── Placeholder.md
-│   └── README.md
+│   ├── Time Complexity / Space Complexity
+│   ├── STL Priority Queue, Map and Set
+│   ├── Queue / Stack (STL)
+│   └── Problem Solving
 │
 └── README.md (this file)
 
+📧 Contact Me
+If you have questions or suggestions, feel free to reach out:
+
+Email: saiyedul.abrar1430@gmail.com
+LinkedIn: https://www.linkedin.com/in/saiyedulabrar/
