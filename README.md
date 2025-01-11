@@ -5,15 +5,15 @@ Welcome to my **Data Structures Journey** repository! This is where I document m
 ---
 
 ## 📋 Topics Covered
-1. **Time Complexity**  
-2. **Space Complexity**  
-3. **Singly Linked List**  
-4. **Doubly Linked List**  
-5. **STL Linked List**  
-6. **Queue (STL)**  
-7. **Stack (STL)**  
-8. **Prefix Sum**  
-9. **Binary Tree**  
+01. **Time Complexity**  
+02. **Space Complexity**  
+03. **Singly Linked List**  
+04. **Doubly Linked List**  
+05. **STL Linked List**  
+06. **Queue (STL)**  
+07. **Stack (STL)**  
+08. **Prefix Sum**  
+09. **Binary Tree**  
 10. **Binary Tree Operations**  
 11. **Binary Search Tree**  
 12. **Heap Implementation**  
