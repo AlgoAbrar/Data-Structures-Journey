@@ -5,21 +5,20 @@ Welcome to my **Data Structures Journey** repository! This is where I document m
 ---
 
 ## 📋 Topics Covered
-01. **Time Complexity**  
-02. **Space Complexity**  
-03. **Singly Linked List**  
-04. **Doubly Linked List**  
-05. **STL Linked List**  
-06. **Queue (STL)**  
-07. **Stack (STL)**  
-08. **Prefix Sum**  
-09. **Binary Tree**  
-10. **Binary Tree Operations**  
-11. **Binary Search Tree**  
-12. **Heap Implementation**  
-13. **STL Priority Queue, Map, and Set**  
-14. **Other Topics (To be added)**  
-
+01. **[Time Complexity](https://github.com/yourusername/Data-Structures-Journey/tree/main/OtherTopics/TimeComplexity)**  
+02. **[Space Complexity](https://github.com/yourusername/Data-Structures-Journey/tree/main/OtherTopics/SpaceComplexity)**  
+03. **[Singly Linked List](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Linked%20List/Singly%20Linked%20List)**  
+04. **[Doubly Linked List](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Linked%20List/Doubly%20Linked%20List)**  
+05. **[STL Linked List](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Linked%20List)**  
+06. **[Queue (STL)](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Queue)**  
+07. **[Stack (STL)](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Stack)**  
+08. **[Prefix Sum](https://github.com/AlgoAbrar/Data-Structures-Journey/blob/main/Y_Range_sum_query.cpp)**  
+09. **[Binary Tree](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Binary%20Tree)**  
+10. **[Binary Tree Operations](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Binary%20Tree)**  
+11. **[Binary Search Tree](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Binary%20Search%20Tree%2C%20Heap%20and%20Map)**  
+12. **[Heap Implementation](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Binary%20Search%20Tree%2C%20Heap%20and%20Map)**  
+13. **[STL Priority Queue, Map, and Set](https://github.com/AlgoAbrar/Data-Structures-Journey/tree/main/Binary%20Search%20Tree%2C%20Heap%20and%20Map)**  
+  
 ---
 
 ## 🌟 Goals
@@ -58,7 +57,7 @@ Data-Structures-Journey/
 │   ├── Queue / Stack (STL)
 │   └── Problem Solving
 │
-└── README.md (this file)
+└── End
 ```
 📧 Contact Me
 If you have questions or suggestions, feel free to reach out:
